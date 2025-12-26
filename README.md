@@ -107,7 +107,7 @@ Pinged in Last 7 Days ███████████████████ 
 ### Dashboard Reference
 The SQL outputs documented above are visualized in an operational Metabase
 dashboard. A snapshot of the actual dashboard layout is available in the
-`dashboards/` directory for reference.
+`dashboards/operations_overview_dashboard.png` directory for reference.
 
 ---
 
