@@ -14,9 +14,6 @@
   - Not Properly Installed:
       • Any of the above conditions not met
 
-  Notes:
-  - Tag names and identifiers are anonymized for portfolio use
-  - Designed for PostgreSQL-compatible databases
 */
 
 WITH latest_records AS (
